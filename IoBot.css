@@ -1,0 +1,57 @@
+body{
+  background-color: #13a7d3;
+}
+header{
+  text-align: center;
+  color: white;
+  border-bottom: 1px solid white;
+}
+
+main{
+  position: relative;
+  margin: 30px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+header>h1{
+  margin: 20px;
+}
+
+li {
+    background: white;
+    margin: 5px;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+Div{
+  display: block;
+}
+
+p{
+  font-size: 10px;
+  color: white;
+}
+
+.quick-replies{
+  left: 95px;
+  top: -11px;
+  color: white;
+  position: relative;
+  }
+
+.quick_reply_btn{
+  position: relative;
+  background-color: #FF1493;
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 4px;
+}
+
+.discussion_item{
+  padding: 10px;
+}
